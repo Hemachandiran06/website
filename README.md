@@ -1173,10 +1173,15 @@ ADMIN.HTML
 ```
 
 # OUTPUT:
-![alt text](<../Screenshot (55).png>)
-![alt text](<../Screenshot (56).png>)
-![alt text](<../Screenshot (57).png>)
-![alt text](<../Screenshot (58).png>)
+![Screenshot (55)](https://github.com/user-attachments/assets/d9393b30-2aac-4460-8c75-b30ba0d38390)
+![Screenshot (56)](https://github.com/user-attachments/assets/53caceb4-3dce-4c42-8ce1-7753f387ff6d)
+
+![Screenshot (57)](https://github.com/user-attachments/assets/7bc57802-19c2-4a29-8217-e2fcefe28a42)
+![Screenshot (58)](https://github.com/user-attachments/assets/348fb762-cdad-4e5d-a4a7-b8f922324c95)
+
+
+
+
 
 # RESULT:
 The program for designing software company website using HTML and CSS is completed successfully.
